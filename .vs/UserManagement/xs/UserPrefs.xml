@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{0B88F52E-03F9-415A-AC9D-EC74B0516FB7}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UserManagement/Program.cs">
+    <Files>
+      <File FileName="UserManagement/Models/User.cs" Line="16" Column="33" />
+      <File FileName="UserManagement/Models/UserPreferences.cs" Line="14" Column="1" />
+      <File FileName="UserManagement/Models/Language.cs" Line="7" Column="16" />
+      <File FileName="UserManagement/Models/ViewModels/UserViewModel.cs" Line="11" Column="1" />
+      <File FileName="UserManagement/Controllers/UserController.cs" Line="42" Column="41" />
+      <File FileName="UserManagement/Views/User/Index.cshtml" Line="13" Column="21" />
+      <File FileName="UserManagement/Views/Shared/_Layout.cshtml" Line="49" Column="67" />
+      <File FileName="UserManagement/Data/DataRepository.cs" Line="15" Column="16" />
+      <File FileName="UserManagement/Views/User/_user.cshtml" Line="7" Column="1" />
+      <File FileName="UserManagement/Views/User/_userName.cshtml" Line="4" Column="9" />
+      <File FileName="UserManagement/Views/User/_userList.cshtml" Line="9" Column="1" />
+      <File FileName="UserManagement/wwwroot/js/site.js" Line="9" Column="1" />
+      <File FileName="UserManagement/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="UserManagement/appsettings.json" Line="1" Column="1" />
+      <File FileName="UserManagement/appsettings.Development.json" Line="10" Column="1" />
+      <File FileName="UserManagement/Program.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UserManagement" expanded="True">
+            <Node name="UserManagement" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UserManagement PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

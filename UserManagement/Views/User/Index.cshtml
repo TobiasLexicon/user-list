@@ -1,0 +1,13 @@
+﻿@model List<UserViewModel>
+@{
+    ViewData["Title"] = "User Data";
+}
+
+
+@*<partial name="_userList" model=@Model />*@
+
+<button onclick="GetUserList(/User/GetAllUsers)">Get users</button>
+<button onclick="GetUserList(@Url.Action("GetAllUsers", "User"))">Get users too</button>
+<div id="userListHere"></div>
+
+<h2>Site in all</h2>
